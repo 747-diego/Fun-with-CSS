@@ -1,0 +1,39 @@
+/* TESTING */
+ul {
+    
+    justify-content: space-around;
+    list-style: none;
+    display: flex;
+    
+}
+
+li {
+
+    background-color: #f7f7f7;
+    padding: 20px;
+    border-radius: 15px;
+    font-size: 40px;
+    font-weight: bold;
+    text-align: center;
+    border: 2px solid lightslategray;
+}
+
+.icon {
+    display: block;
+    width: 255px;
+    height: 350px;
+    margin: 10px;
+    padding-right: 50px;
+}
+
+.i-html {
+    background: url("https://holbertonintranet.s3.amazonaws.com/uploads/medias/2020/2/d416199ca6ecdbd0f8a3.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIARDDGGGOUWMNL5ANN%2F20210131%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20210131T220145Z&X-Amz-Expires=345600&X-Amz-SignedHeaders=host&X-Amz-Signature=6aed4558afe5ed91f1a47b38eeda755078196d52f413108d9dfece137bc9f421") 0 0;
+}
+
+.i-css {
+    background: url("https://holbertonintranet.s3.amazonaws.com/uploads/medias/2020/2/d416199ca6ecdbd0f8a3.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIARDDGGGOUWMNL5ANN%2F20210131%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20210131T220145Z&X-Amz-Expires=345600&X-Amz-SignedHeaders=host&X-Amz-Signature=6aed4558afe5ed91f1a47b38eeda755078196d52f413108d9dfece137bc9f421") -286px 0;
+}
+
+.i-js {
+    background: url("https://holbertonintranet.s3.amazonaws.com/uploads/medias/2020/2/d416199ca6ecdbd0f8a3.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIARDDGGGOUWMNL5ANN%2F20210131%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20210131T220145Z&X-Amz-Expires=345600&X-Amz-SignedHeaders=host&X-Amz-Signature=6aed4558afe5ed91f1a47b38eeda755078196d52f413108d9dfece137bc9f421") -573px 0;
+}
